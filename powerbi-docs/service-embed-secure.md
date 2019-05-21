@@ -24,7 +24,7 @@ The **Embed** option also supports [URL Filters](service-url-filters.md) and URL
 
     ![Secure Embed option drop-down option](media/service-embed-secure/secure-embed-drop-down-menu.png)
 
-2. Select the Embed option to open a dialog that provides a link and an iFrame that is used to embed the report securely.
+2. Select the Embed option to open a dialog that provides a link and an iFrame that is used to embed the report securely. In case you are using a proxy for Power BI service, you'll need to manually update the url to match the proxy.
 
     ![Embed option dialog box](media/service-embed-secure/secure-embed-code-dialog.png)
 
